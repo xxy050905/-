@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / distributed files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Database
+data.db
+
+# Runtime data directories
+uploads/
+output_audio/
+output_logs/
+test_samples/
+
+# Node.js (if frontend tooling is present)
+node_modules/
+package-lock.json
+
+# Build output (Vite)
+src/dist/
